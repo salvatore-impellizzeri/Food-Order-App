@@ -1,5 +1,5 @@
 import Header from "./components/Header";
-import FoodList from "./components/FoodList";
+import FoodList from "./components/MealsList";
 
 function App() {
   return (
