@@ -237,8 +237,8 @@ h1 {
 .error {
   background-color: #F8ADAC;
   color: #500505;
-  margin: auto;
-  width: 30%;
+  margin: 20px auto;
+  width: 400px;
   padding: 2px 20px;
   border-radius: 5px;
 }
